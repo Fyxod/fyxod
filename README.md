@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am an aspiring developer trying to learn new things everyday.
 
 <!--
 **Fyxod/fyxod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

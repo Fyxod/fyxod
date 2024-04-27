@@ -42,7 +42,7 @@
 
 ###
 
-<h6 align="left">Let's Connect</h6>
+<h4 align="left">Let's Connect</h4>
 
 ###
 

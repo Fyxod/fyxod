@@ -2,13 +2,17 @@
 
 ###
 
-<img align="left" height="243" src="https://i.gifer.com/NIbp.gif"  />
+<br clear="both">
+
+<div align="center">
+  <img height="243" src="https://i.gifer.com/NIbp.gif"  />
+</div>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">💻Tech Stack</h2>
 
 ###
 

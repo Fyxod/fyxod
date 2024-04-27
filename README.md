@@ -50,7 +50,7 @@
   <a href="https://www.linkedin.com/in/parth-katiyar-4a4771188/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  <a href="parthdev0101@gmail.com" target="_blank">
+  <a href="mailto:parthdev0101@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
 </div>

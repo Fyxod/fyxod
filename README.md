@@ -2,11 +2,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="243" src="https://i.gifer.com/NIbp.gif"  />
-</div>
 
 ###
 

@@ -29,7 +29,7 @@
 ## 🤝Let's Connect
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/parth-katiyar-4a4771188/" target="_blank">
+  <a href="https://www.linkedin.com/in/parthkatiyar" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   </a>
   <a href="https://www.instagram.com/katiyar_parth_/" target="_blank">

@@ -37,6 +37,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" alt="gmail logo" />
 </span>
   </a>
+  <a href="https://www.instagram.com/katiyar_parth_/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
+  </a>
 </div>
 
 ## 📊Stats

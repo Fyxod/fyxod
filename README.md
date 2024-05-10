@@ -7,7 +7,7 @@
 
 <br clear="both">
 
-<h2 align="left">💻Tech Stack</h2>
+## 💻Tech Stack  
 <!-- <br clear="both"> -->
 <div align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />

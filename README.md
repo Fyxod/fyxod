@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋,I'm Parth Katiyar</h1>
-<h2 align="center">A Backend Developer</h1>
+<span><h2 align="center">A Backend Developer</h1></span>
 
 ###
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" align="center" width= "100%" height="300"/>

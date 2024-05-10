@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋,I'm Parth Katiyar</h1>
 
 ###
- <img src="https://i.gifer.com/NIbp.gif" height="30" alt="c logo"  />
+![image](https://github.com/Fyxod/fyxod/assets/140262636/f0b4001e-16d4-4cf6-a43e-387d246c4b60)
 ###
 
 <br clear="both">

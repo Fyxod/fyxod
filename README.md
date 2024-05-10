@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋,I'm Parth Katiyar</h1>
 
 ###
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" align="center" style="width: 100%" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" align="center" style="width: 700, heigh: 500" />
 
 ###
 

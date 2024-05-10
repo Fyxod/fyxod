@@ -9,8 +9,6 @@
 
 <h2 align="left">💻Tech Stack</h2>
 
-###
-
 <br clear="both">
 
 <div align="left">

@@ -60,7 +60,7 @@
   <a href="mailto:parthdev0101@gmail.com">
  <span style="margin-top: -10px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" alt="gmail logo" />
-</spam>
+</span>
   </a>
 </div>
 

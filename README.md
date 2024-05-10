@@ -55,7 +55,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/parth-katiyar-4a4771188/" target="_blank">
-    <img src="https://github.com/Fyxod/fyxod/assets/140262636/ed2ed707-f71c-4f59-90a8-fd7449d02ec1" width="47" height="35" alt="linkedin logo"  />
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gi" width="47" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:parthdev0101@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />

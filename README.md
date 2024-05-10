@@ -1,8 +1,7 @@
 <h1 align="center">Hi👋,I'm Parth Katiyar</h1>
 
 ###
-
-
+ <img src="https://i.gifer.com/NIbp.gif" height="30" alt="c logo"  />
 ###
 
 <br clear="both">

@@ -59,12 +59,11 @@
   </a>
   <a href="mailto:parthdev0101@gmail.com">
     
-<img src="https://github.com/Fyxod/fyxod/assets/140262636/3b216ee0-5531-4023-9cd8-3be98c3c7934
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg
 " width="90" alt="gmail logo"  />
   </a>
 </div>
-![image](https://github.com/Fyxod/fyxod/assets/140262636/3b216ee0-5531-4023-9cd8-3be98c3c7934)
-<!-- https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg -->
+
 ###
 
 <div align="center">

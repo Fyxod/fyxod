@@ -1,7 +1,8 @@
 <h1 align="center">Hi👋,I'm Parth Katiyar</h1>
 
 ###
-![image](https://github.com/Fyxod/fyxod/assets/140262636/f0b4001e-16d4-4cf6-a43e-387d246c4b60)
+<img src="https://github.com/Fyxod/fyxod/assets/140262636/f0b4001e-16d4-4cf6-a43e-387d246c4b60" align="center" style="width: 100%" />
+
 ###
 
 <br clear="both">

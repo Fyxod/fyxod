@@ -1,5 +1,5 @@
 <div align="center"> <h1>Hi👋,I'm Parth Katiyar</h1><h2>A Backend Developer</h2></div>
-![Gmail](https://github.com/Fyxod/fyxod/assets/140262636/76834e6b-7965-4119-b99e-87f268794517)
+<img src="https://github.com/Fyxod/fyxod/assets/140262636/76834e6b-7965-4119-b99e-87f268794517" align="center" width= "100%" height="300"/>
 
 ###
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" align="center" width= "100%" height="300"/>

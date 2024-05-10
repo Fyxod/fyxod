@@ -36,7 +36,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
   </a>  
 <a href="mailto:parthdev0101@gmail.com">
-    <img src="https://github.com/Fyxod/fyxod/assets/140262636/76834e6b-7965-4119-b99e-87f268794517" width="100" />
+    <img src="https://github.com/Fyxod/fyxod/assets/140262636/cb0f74c5-b3a2-44c2-836c-be63d0f56025" width="107.5" />
   </a>
   
 </div>
@@ -44,8 +44,8 @@
 ## 📊Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fyxod&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fyxod&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fyxod&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fyxod&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###

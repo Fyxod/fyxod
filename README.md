@@ -58,10 +58,10 @@
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   </a>
   <a href="mailto:parthdev0101@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="90" alt="gmail logo"  />
+    <img src="https://icons8.com/icon/tnnUFgHrPmR0/gmail-logo" width="90" alt="gmail logo"  />
   </a>
 </div>
-
+<!-- https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg -->
 ###
 
 <div align="center">

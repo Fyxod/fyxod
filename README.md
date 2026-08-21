@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-    <img src="./assets/banner-dark.svg" width="100%" alt="Hey, I'm Parth - software engineer building backend systems, AI and LLM products, and developer tools">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg?v=20260822">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg?v=20260822">
+    <img src="./assets/banner-dark.svg?v=20260822" width="100%" alt="Hey, I'm Parth - software engineer building backend systems, AI and LLM products, and developer tools">
   </picture>
 
   <a href="https://www.linkedin.com/in/parthkatiyar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

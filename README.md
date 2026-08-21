@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg?v=20260822">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg?v=20260822">
-    <img src="./assets/banner-dark.svg?v=20260822" width="100%" alt="Hey, I'm Parth - software engineer building backend systems, AI and LLM products, and developer tools">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg?v=20260822-2">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg?v=20260822-2">
+    <img src="./assets/banner-dark.svg?v=20260822-2" width="100%" alt="Hey, I'm Parth - software engineer building backend systems, AI and LLM products, and developer tools">
   </picture>
 
   <a href="https://www.linkedin.com/in/parthkatiyar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -11,7 +11,6 @@
   <a href="https://leetcode.com/u/parthktr/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
   <a href="https://www.npmjs.com/~fyxod"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
 
-  <p><strong>Software engineer building backend systems, AI/LLM products, and developer tools.</strong></p>
 </div>
 
 ## Tech Stack
@@ -22,6 +21,7 @@
     <td>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
       <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">

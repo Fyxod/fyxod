@@ -50,7 +50,7 @@
   <g transform="translate(80 264)" font-family="Consolas,SFMono-Regular,monospace" font-size="15" font-weight="700">
     <text x="0" y="20" fill="#00f5d4">BACKEND SYSTEMS</text>
     <text x="145" y="20" fill="#64748b">/</text>
-    <text x="167" y="20" fill="#00bbf9">AI &amp; LLMS</text>
+    <text x="167" y="20" fill="#00bbf9">AI + LLMS</text>
     <text x="260" y="20" fill="#64748b">/</text>
     <text x="282" y="20" fill="#f15bb5">DEVELOPER TOOLS</text>
   </g>

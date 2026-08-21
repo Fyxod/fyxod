@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
   <title id="title">Hey, I'm Parth</title>
-  <desc id="desc">Developer, builder, and curious human.</desc>
+  <desc id="desc">Parth Katiyar, software engineer building backend systems, AI and LLM products, and developer tools.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#f0fdfa"/>
@@ -41,14 +41,14 @@
 
   <text x="78" y="146" fill="#0f172a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="70" font-weight="800" letter-spacing="-2.5">HEY, I'M PARTH.</text>
   <rect x="80" y="168" width="570" height="7" rx="3.5" fill="url(#neon)"/>
-  <text x="80" y="222" fill="#475569" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="600">I build software, chase ideas, and learn by making.</text>
+  <text x="80" y="222" fill="#475569" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="600">I build backend systems, AI/LLM products, and developer tools.</text>
 
   <g transform="translate(80 264)" font-family="Consolas,SFMono-Regular,monospace" font-size="15" font-weight="700">
-    <text x="0" y="20" fill="#0f9f8c">DEVELOPER</text>
-    <text x="103" y="20" fill="#94a3b8">/</text>
-    <text x="125" y="20" fill="#0284c7">BUILDER</text>
-    <text x="200" y="20" fill="#94a3b8">/</text>
-    <text x="222" y="20" fill="#db2777">CURIOUS HUMAN</text>
+    <text x="0" y="20" fill="#0f9f8c">BACKEND SYSTEMS</text>
+    <text x="145" y="20" fill="#94a3b8">/</text>
+    <text x="167" y="20" fill="#0284c7">AI &amp; LLMS</text>
+    <text x="260" y="20" fill="#94a3b8">/</text>
+    <text x="282" y="20" fill="#db2777">DEVELOPER TOOLS</text>
   </g>
 
   <g transform="translate(790 60)" filter="url(#shadow)">
@@ -61,9 +61,9 @@
       <text x="24" y="84" fill="#0f9f8c">$</text>
       <text x="45" y="84" fill="#0f172a">whoami</text>
       <text x="24" y="119" fill="#94a3b8">›</text>
-      <text x="45" y="119" fill="#db2777">developer</text>
+      <text x="45" y="119" fill="#db2777">software engineer</text>
       <text x="24" y="149" fill="#94a3b8">›</text>
-      <text x="45" y="149" fill="#0284c7">problem solver</text>
+      <text x="45" y="149" fill="#0284c7">backend + AI</text>
       <text x="24" y="179" fill="#94a3b8">›</text>
       <text x="45" y="179" fill="#0f9f8c">always building</text>
       <rect x="24" y="196" width="10" height="3" fill="#0f172a">
